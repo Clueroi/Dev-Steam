@@ -1,8 +1,10 @@
 import Head from 'next/head'
+import Navbar from '../components/navbar/navbar.jsx'
 
 export default function Home() {
   return (
     <>
+      <Navbar/>
       <Head>
         <title>DevSteam: A sua loja online de games</title>
         <meta name="description" content="DevSteam: A sua loja online de games" />
