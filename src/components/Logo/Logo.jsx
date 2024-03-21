@@ -6,7 +6,6 @@ const LogoContainer = styled.div`
     align-items-center;
     gap:20px;
     font-size:20px;
-    flex:1;
 `
 
 function Logo(){
